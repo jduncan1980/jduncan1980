@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi! My name is Jason Duncan, I am a Web developer from Brooklyn, NY, and I am just weeks away from finishing up the Web Development and Computer Science track at Lambda School. I'm currently working on an App called CitySpire which allows user's to retrieve city data (rents, livability index, etc) from a curated list of US Cities, and compare said data. I am also in the process of looking for my first tech job!
+
+Check out my [Portfolio](https://jasonduncan.xyz)!
 
 <!--
 **jduncan1980/jduncan1980** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
